@@ -24,43 +24,44 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> React
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Possibly
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A user will be able to manually input savings amount into a savings account.
+A user will be able to check the amount of money they have in their savings account.
 
 - What are the app milestones
 
-> Your answer here...
+> CRUD functionality, actually implementing bank connectivity
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> User protection, accuracy once app is automated, overall automation process
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Probably not.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> The app will have a user manually input their savings amount and also have a user manually input the amount they are adding to savings. Savings amount will then readjust based on amount added.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Some sort of reward system can be implemented. A user can gain x amount of currency based on x amount of currency saved with this app.
 
 - How could people misuse this application?
 
-> Your answer here...
+> If original idea is implemented, sensitive info can possibly be stolen.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> This app will have to track very sensitive user data, there can be potential safety issues.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +75,42 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> Database, React
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes, database
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A user will be able to connect with another user to discuss a topic via text/voice chat.
+A user will be able to select a topic of interest to discuss.
+A user will be able to decide on whether they want to chat on voice call or text.
 
 - What are the app milestones
 
-> Your answer here...
+> User to user connectivity, CRUD functionality for messaging
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Safety, meetups should be discouraged as bad users may be on app. Report system for bad users.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> I believe so
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Voice call feature can be taken away.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Users can unlock special icons or in app cosmetics based on how many conversations theyve had.
 
 - How could people misuse this application?
 
-> Your answer here...
+> A bad user can try to get sensitive info from other users.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> There should be no safety issues as users are anonymous.
